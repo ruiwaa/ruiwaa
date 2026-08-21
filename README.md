@@ -41,19 +41,6 @@
 </div>
 
 <br>
-
-<h3 align="center"> ‧₊˚✩˚₊‧ Tool ‧₊˚✩˚₊‧ </h3>
-<p align="center">
-  ──────────── ★ ────────────
-</p>
-<div align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=white&color=%23F03C2E">&nbsp
-<img alt="Static Badge" src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=white&color=%23181717">&nbsp
-<img alt="Static Badge" src="https://img.shields.io/badge/vercel-white?style=for-the-badge&logo=vercel&logoColor=white&color=%23000000">&nbsp
-<img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-
-</div>
-
 <br>
 
 <h3 align="center">☏ ── CONTACT ME ── ☏</h3>
